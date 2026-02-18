@@ -1,7 +1,7 @@
 # Input variables for the Gregorian date
 
-M = int(input("Enter month:"))
 D = float(input("Enter day:"))
+M = int(input("Enter month:"))
 Y = int(input("Enter year:"))
 
 # Compute JD for the Gregorian date
